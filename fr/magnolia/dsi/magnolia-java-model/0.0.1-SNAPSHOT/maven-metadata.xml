@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>fr.magnolia.dsi</groupId>
+  <artifactId>magnolia-java-model</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20200528.084140</timestamp>
+      <buildNumber>2</buildNumber>
+    </snapshot>
+    <lastUpdated>20200528084140</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.0.1-20200528.084140-2</value>
+        <updated>20200528084140</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.0.1-20200528.084140-2</value>
+        <updated>20200528084140</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
